@@ -286,7 +286,7 @@ const BLOG = {
       process.env.NEXT_PUBLIC_ANALYTICS_ACKEE_DOMAIN_ID || '', // e.g '0e2257a8-54d4-4847-91a1-0311ea48cc7b'
 
   SEO_GOOGLE_SITE_VERIFICATION:
-      process.env.NEXT_PUBLIC_SEO_GOOGLE_SITE_VERIFICATION || '', // Remove the value or replace it with your own google site verification code
+      process.env.NEXT_PUBLIC_SEO_GOOGLE_SITE_VERIFICATION || 'Lm6JAVvxNhOQD48DSBxRNNB6Bl1NEGfoh6hFV5ndLWk', // Remove the value or replace it with your own google site verification code
 
   // <---- 站点统计
 
