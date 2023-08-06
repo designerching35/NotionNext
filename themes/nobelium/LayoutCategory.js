@@ -5,7 +5,7 @@ import LayoutBase from './LayoutBase'
 
 export const LayoutCategory = props => {
   return <LayoutBase {...props}>
-       {BLOG.POST_LIST_STYLE === 'page' ? <BlogListPage {...props} /> : <BlogListScroll {...props} />}
+       {BLOG.POST_LIST_STYLE === 'scroll' ? <BlogListPage {...props} /> : <BlogListScroll {...props} />}
     </LayoutBase >
 }
 
