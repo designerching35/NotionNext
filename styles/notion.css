@@ -1452,7 +1452,7 @@ code[class*='language-'] {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-weight: 500;
+  font-weight: 800;
 }
 
 .notion-collection-row {
@@ -1732,7 +1732,7 @@ svg + .notion-page-title-text {
   align-items: center;
   font-size: 1.25em;
   line-height: 1.2;
-  font-weight: 900;
+  font-weight: 700;
   white-space: pre-wrap;
   word-break: break-word;
   margin-right: 0.5em;
