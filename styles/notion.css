@@ -385,7 +385,7 @@
 .notion-title {
   width: 100%;
   font-size: 2.5em;
-  font-weight: 900;
+  font-weight: 700;
   margin-bottom: 20px;
   line-height: 1.2;
 }
@@ -1732,7 +1732,7 @@ svg + .notion-page-title-text {
   align-items: center;
   font-size: 1.25em;
   line-height: 1.2;
-  font-weight: 600;
+  font-weight: 900;
   white-space: pre-wrap;
   word-break: break-word;
   margin-right: 0.5em;
