@@ -25,7 +25,7 @@ export const ArticleInfo = (props) => {
                   alt={BLOG.author}
                   width={24}
                   height={24}
-                  src={`https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjoxMywibW91dGgiOjEsImV5ZXMiOjgsImV5ZWJyb3dzIjo2LCJnbGFzc2VzIjoxLCJoYWlyIjozOCwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9`}
+                  src={`https://gravatar.com/avatar/d22ded6f8bf1565876be8658514186e8{emailHash}`}
                   className="rounded-full"
                 />
                 <p className="ml-2 md:block">{BLOG.author}</p>
