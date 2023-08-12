@@ -342,5 +342,3 @@ const BLOG = {
 }
 
 module.exports = BLOG
-
-Animated icons by Lordicon.com
