@@ -342,3 +342,5 @@ const BLOG = {
 }
 
 module.exports = BLOG
+
+<a href="https://lordicon.com/">Animated icons by Lordicon.com</a>
